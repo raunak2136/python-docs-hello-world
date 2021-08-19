@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, World!"
+    return "SUBDOMAIN TAKEOVER BY https://hackerone.com/theweekndxoxo?type=user"
